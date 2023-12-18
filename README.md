@@ -1,4 +1,4 @@
-<h2 align="center">Average TypeScript enjoyer</h2>
+<h2 align="center">Hello World!</h2>
 <p align="center">
 	<a href="https://discord.com/users/424764032667484171">
 			<img src="https://lanyard-profile-readme.vercel.app/api/424764032667484171?bg=02172c&borderRadius=4.5px"
