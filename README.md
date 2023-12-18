@@ -16,10 +16,6 @@
 			src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&labelColor=02172c&color=02172c" />
 	<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&labelColor=02172c&color=02172c" />
 	<img
-			src="https://img.shields.io/badge/Csharp-black?style=for-the-badge&logo=csharp&labelColor=02172c&color=02172c" />
-	<img
-			src="https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&labelColor=02172c&color=02172c" />
-	<img
 			src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&labelColor=02172c&color=02172c" />
 	<img src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&labelColor=02172c&color=02172c" />
 	<img src="https://img.shields.io/badge/go-black?style=for-the-badge&logo=go&labelColor=02172c&color=02172c" />
