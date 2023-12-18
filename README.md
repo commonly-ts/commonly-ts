@@ -8,9 +8,9 @@
 
 <p align="center" style="font-size: 18px; font-weight: bold">Thingymabobs I utilise</summary>
 <p align="center">
-	<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&labelColor=02172c&color=02172c&borderRadius=5px" />
-	<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=02172c&color=02172c&borderRadius=5px" />
-	<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&labelColor=02172c&color=02172c&borderRadius=5px" />
+	<img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=HTML5&labelColor=02172c&color=02172c" />
+	<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=02172c&color=02172c" />
+	<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript&labelColor=02172c&color=02172c" />
 	<img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&labelColor=02172c&color=02172c" />
 	<img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&labelColor=02172c&color=02172c" />
 	<img src="https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua&labelColor=02172c&color=02172c" />
