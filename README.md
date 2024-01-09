@@ -6,7 +6,7 @@
 	</a>
 </p>
 
-<p align="center">Currently have spent 0.0423% of my life on Visual Studio Code</p>
+<p align="center">Currently have spent 0.0450% of my life on Visual Studio Code</p>
 
 <h3 align="center" style="font-size: 18px; font-weight: bold">Thingymabobs I utilise</summary>
 <p align="center">
