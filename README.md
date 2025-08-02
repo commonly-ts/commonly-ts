@@ -17,9 +17,3 @@
 	<img src="https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=Fastify&labelColor=02172c&color=02172c" />
 	<img src="https://img.shields.io/badge/Typeorm-black?style=for-the-badge&labelColor=02172c&color=02172c" />
 </h3>
-
-
-<p align="center" style="font-size: 20px">
-	Readme inspired by <a href="https://github.com/GravityScriptsV2"
-			style="color: #007bff; text-decoration: none">GravityScripts's</a> Readme
-</p>
