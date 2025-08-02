@@ -1,13 +1,4 @@
 <h2 align="center">Hello World!</h2>
-<p align="center">
-	<a href="https://discord.com/users/424764032667484171">
-			<img src="https://lanyard-profile-readme.vercel.app/api/424764032667484171?bg=02172c&borderRadius=4.5px"
-					alt="Discord Presence" width="410px" />
-	</a>
-</p>
-
-<p align="center">Currently have spent 0.0705% of my life on Visual Studio Code</p>
-
 <h3 align="center" style="font-size: 18px; font-weight: bold">Thingymabobs I utilise</summary>
 <p align="center">
 	<br>
